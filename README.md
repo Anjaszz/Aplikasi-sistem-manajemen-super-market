@@ -1,6 +1,6 @@
-![Aplikasi Sistem manajemen supermarket]
+# Aplikasi Sistem manajemen supermarket
 
-Aplikasi  Sistem manajemen supermarket adalah sebuah sistem kasir (Point of Sales) dan manajemen produk supermarket.
+### Aplikasi  Sistem manajemen supermarket adalah sebuah sistem kasir (Point of Sales) dan manajemen produk supermarket.
 
 <hr>
 
@@ -74,17 +74,20 @@ Fitur pada Aplikasi ini meliputi:
 #### Tampilan Loading
 ![Tampilan Loading aplikasi](SS/Loading.png "Tampilan Awal Aplikasi")
 
-#### Konfirmasi Entry Transaksi
-![Konfirmasi Entry Transaksi](public/imgs/02-konfirmasi-entry-transaksi.jpg "Konfirmasi Entry Transaksi")
+#### Tampilan Login 
+![Tampilan Login](SS/Login.png "Tampilan Login")
 
-#### List Transaksi
-![List Transaksi](public/imgs/03-list-transaksi.jpg "List Transaksi")
+#### Tampilan Transaksi
+![Tampilan Transaksi](SS/Penjualan.png "Tampilan Transaksi")
 
-#### Daftar Produk
-![Daftar Produk](public/imgs/04-daftar-produk.jpg "Daftar Produk")
+#### Kelola Produk
+![Kelola Produk](SS/KelolaProduk.png "Kelola Produk")
+
+#### Kelola Kasir
+![ Kelola Kasir](SS/KelolaKasir.png " Kelola Kasir")
 
 #### Laporan Penjualan 
-![Laporan Tahunan](public/imgs/06-yearly-sales.jpg "Laporan Tahunan")
+![Laporan Penjualan](SS/Laporan.png "Laporan Penjualan")
 
 
 ## Lisensi
