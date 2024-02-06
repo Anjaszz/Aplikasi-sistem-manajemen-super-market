@@ -71,6 +71,8 @@ Fitur pada Aplikasi ini meliputi:
 
 ## Screenshots
 
+#### Tampilan Loading
+![Tampilan Loading aplikasi](SS/Loading.png "Tampilan Awal Aplikasi")
 
 #### Konfirmasi Entry Transaksi
 ![Konfirmasi Entry Transaksi](public/imgs/02-konfirmasi-entry-transaksi.jpg "Konfirmasi Entry Transaksi")
